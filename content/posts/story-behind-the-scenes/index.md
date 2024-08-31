@@ -1,6 +1,6 @@
 ---
 title: "Behind the scenes"
-date: 2024-09-1
+date: 2024-08-30T11:30:03+00:00
 tags: ["story"]
 author: "Kavya S."
 # author: ["Me", "You"] # multiple authors
@@ -10,7 +10,7 @@ draft: false
 hidemeta: false
 comments: false
 # description: "This is a very long description text"
-summary: "This is the story I submitted to the Great Kiwi Write Off 2024."
+summary: "This is the story :scream: I submitted to the Great Kiwi Write Off 2024."
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -29,9 +29,6 @@ UseHugoToc: true
 ---
 
 <!-- ![](sailing.jpg) -->
-
-
-
 
 It was a dark stormy night, thunder boomed in the rain. I ran to my house. Someone was following me. My feet splashed in the muddy puddles as I was running on the street. I noticed a man with a walking stick on the middle of the road that was next to my house. I shouted “Who are you? Where did you come from?” but he did not answer. He just walked away into the darkness. I quickly ran into my house. I was soaking wet. 
 
