@@ -4,8 +4,6 @@ date = 2024-08-31T15:04:50+12:00
 draft = false
 +++
 
-# Sport
-
 Stop the ball before it goes out \
 while the ref is sniffing his snout \
 The crowd goes out it was an excellent save \
