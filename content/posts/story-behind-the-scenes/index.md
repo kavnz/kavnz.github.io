@@ -1,5 +1,5 @@
 ---
-title: "Behind the scenes"
+title: "Behind the Scenes"
 date: 2024-08-30T11:30:03+00:00
 tags: ["story"]
 author: "Kavya S."
