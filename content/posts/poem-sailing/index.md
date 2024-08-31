@@ -1,6 +1,6 @@
 ---
 title: "Sailing"
-date: 2020-09-15T11:30:03+00:00
+date: 2024-04-15
 tags: ["poetry"]
 author: "Kavya S."
 # author: ["Me", "You"] # multiple authors
@@ -10,8 +10,7 @@ draft: false
 hidemeta: false
 comments: false
 # description: "This is a very long description text"
-# canonicalURL: "https://canonical.url/to/page"
-summary: "My long summary"
+summary: "Here's another one from the same anthology. This one is about sailing. :sailboat: "
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false

@@ -1,6 +1,7 @@
 ---
 title: "Soccer"
-date: 2020-09-15T11:30:03+00:00
+date: 2024-04-15
+# date: 2024-04-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["poetry"]
@@ -12,8 +13,8 @@ draft: false
 hidemeta: false
 comments: false
 # description: "This is a very long description text"
-# canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
+summary: "I wrote this poem about soccer :soccer: for an anthology created as part a unit of learning on literacy, at school."
 disableShare: false
 disableHLJS: false
 hideSummary: false
