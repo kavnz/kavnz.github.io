@@ -5,17 +5,17 @@ draft = false
 +++
 
 Stop the ball before it goes out \
-while the ref is sniffing his snout \
+While the ref is sniffing his snout \
 The crowd goes out it was an excellent save \
-The crowed was so pleased they did a Mexican wave
+The crowd was so pleased they did a Mexican wave
 
 Ping! Someone scored \
 The crowd will never get bored \
-The match Just started \
-the players parted
+The match just started \
+The players parted
 
 Oh, what a goal \
-it went through the poles \
+It went through the poles \
 It was great \
 But a player was late
 
