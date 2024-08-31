@@ -28,7 +28,7 @@ UseHugoToc: true
 #     hidden: false # only hide on current single page
 ---
 
-<!-- ![](sailing.jpg) -->
+![](stage.jpg)
 
 It was a dark stormy night, thunder boomed in the rain. I ran to my house. Someone was following me. My feet splashed in the muddy puddles as I was running on the street. I noticed a man with a walking stick on the middle of the road that was next to my house. I shouted “Who are you? Where did you come from?” but he did not answer. He just walked away into the darkness. I quickly ran into my house. I was soaking wet. 
 
