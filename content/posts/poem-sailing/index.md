@@ -11,6 +11,7 @@ hidemeta: false
 comments: false
 # description: "This is a very long description text"
 # canonicalURL: "https://canonical.url/to/page"
+summary: "My long summary"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
