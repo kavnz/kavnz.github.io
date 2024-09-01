@@ -1,7 +1,7 @@
 ---
 title: "Sailing"
 date: 2024-04-15
-tags: ["poetry"]
+tags: ["poetry", "anthology"]
 author: "Kavya S."
 # author: ["Me", "You"] # multiple authors
 showToc: true

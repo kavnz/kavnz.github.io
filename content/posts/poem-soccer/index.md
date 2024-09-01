@@ -4,7 +4,7 @@ date: 2024-04-15
 # date: 2024-04-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["poetry"]
+tags: ["poetry", "anthology"]
 author: "Kavya S."
 # author: ["Me", "You"] # multiple authors
 showToc: true
