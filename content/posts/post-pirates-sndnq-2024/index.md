@@ -36,8 +36,8 @@ Finally, he swam his first-ever 200m Breaststroke, finishing in 4:10.44. Althoug
 
 *Note for Kavya: You continue to amaze us with your perseverance, courage, and competitiveness while staying humble. Watching you reach new heights every day fills us with aroha.* :family_man_woman_boy: :heart:
 
-![](50free_rz.jpg)
+![](50free.jpg)
 
-![](50back_rz.jpg)
+![](50back.jpg)
 
-![](200breast_rz.jpg)
+![](200breast.jpg)
